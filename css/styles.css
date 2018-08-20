@@ -1,0 +1,11 @@
+.visit{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.visit:hover {
+  text-decoration: underline;
+}
+#show-data{
+  display: none;
+}
